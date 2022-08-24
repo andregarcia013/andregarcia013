@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andregarcia013&label=Profile%20views&color=0e75b6&style=flat" alt="andregarcia013" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andregarcia013" alt="andregarcia013" /></a> </p>
-
 - 🔭 I’m currently working on [AG-Chat](https://github.com/andregarcia013/ag-chat)
 
 - 🌱 I’m currently diving in **ReactJS and Nodejs (NestJS)**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andregarcia013&show_icons=true&locale=en" alt="andregarcia013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andregarcia013&" alt="andregarcia013" /></p>
-
